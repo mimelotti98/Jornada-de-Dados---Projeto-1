@@ -34,7 +34,6 @@ Interpretação dos grupos: análise da composição e características de cada 
 Visualização e insights: gráficos de distribuição, análise de clusters e cruzamento com dados demográficos/volume de vendas.
 
 📌Resultados & Insights
-Aqui você pode apresentar um resumo dos principais achados, por exemplo:
 Segmento “Campeões (alta R, alta F, alto M): clientes mais valiosos, devem ser foco de retenção.
 Clientes em risco (baixa recência, boa frequência): oportunidade de reativação com campanhas específicas.
 Novos clientes com alto valor monetário: prioridade para engajamento.
