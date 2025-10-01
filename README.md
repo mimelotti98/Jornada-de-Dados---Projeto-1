@@ -39,7 +39,6 @@ Segmento “Campeões (alta R, alta F, alto M): clientes mais valiosos, devem se
 Clientes em risco (baixa recência, boa frequência): oportunidade de reativação com campanhas específicas.
 Novos clientes com alto valor monetário: prioridade para engajamento.
 Análise demográfica: clientes casados e com filhos apresentam comportamento de compra mais frequente e maior volume de vendas.
-Utilize gráficos ou tabelas (coloque como imagens ou links no repositório) para ilustrar esses insights de forma visual e marcante.
 
 📈Conclusões e Recomendações
 Investir em programas de fidelidade ou campanhas personalizadas para os segmentos de alto valor.
