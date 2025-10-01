@@ -48,11 +48,11 @@ Usar insights demográficos para segmentar campanhas (ex: famílias com filhos).
 🔗Links Externos
 Notion – Planejamento e Documentação do Projeto: www.notion.so/Projeto-1-1c016db9dd86808cb2a3d2258a85b710?source=copy_link
 
-Documentação no Google Docs: docs.google.com/document/d/1TYosH11tLoSD3hhdH5oSPtte-8AfYvUb/edit?usp=sharing&ouid=109426261948888283582&rtpof=true&sd=true
+Documentação no Google Docs: https://docs.google.com/document/d/1TYosH11tLoSD3hhdH5oSPtte-8AfYvUb/edit?usp=sharing&ouid=109426261948888283582&rtpof=true&sd=true
 
-Base de Dados no Google Sheets: docs.google.com/spreadsheets/d/1HgZftCS97dzQM9FPcl2kYzHs4lR7fM8zLSzW1ko3FQo/edit?usp=sharing
+Base de Dados no Google Sheets:  https://docs.google.com/spreadsheets/d/1HgZftCS97dzQM9FPcl2kYzHs4lR7fM8zLSzW1ko3FQo/edit?usp=sharing
 
-Apresentação no Google Slides: docs.google.com/presentation/d/1YMeunZoS-hhIKNUieWD3R4O9jT7jYL7N/edit?usp=sharing&ouid=109426261948888283582&rtpof=true&sd=tru
+Apresentação no Google Slides:  https://docs.google.com/presentation/d/1YMeunZoS-hhIKNUieWD3R4O9jT7jYL7N/edit?usp=sharing&ouid=109426261948888283582&rtpof=true&sd=tru
 
 Como Reproduzir
 Clone este repositório.
